@@ -1,0 +1,8 @@
+/hy-tmp/Abeta_4D_resize2/Train/control/9.nii 1
+/hy-tmp/Abeta_4D_resize2/Train/control/35.nii 1
+/hy-tmp/Abeta_4D_resize2/Train/control/14.nii 1
+/hy-tmp/Abeta_4D_resize2/Train/experimental/9.nii 0
+/hy-tmp/Abeta_4D_resize2/Train/experimental/27.nii 0
+/hy-tmp/Abeta_4D_resize2/Train/experimental/4.nii 0
+/hy-tmp/Abeta_4D_resize2/Train/control/32.nii 1
+/hy-tmp/Abeta_4D_resize2/Train/experimental/22.nii 0
